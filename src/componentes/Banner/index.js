@@ -1,6 +1,6 @@
 import styles from './Banner.module.css';
 import circuloColorido from 'assets/circulo_colorido.png';
-import minhaFoto from 'assets/minha_foto.png'
+import minhaFoto from 'assets/minha_foto.jpeg'
 
 export default function Banner() {
     return (
@@ -25,7 +25,7 @@ export default function Banner() {
                 <img
                     className={styles.minhaFoto}
                     src={minhaFoto}
-                    alt="Foto do Antônio Evaldo sorrindo"
+                    alt="Foto do Nicholas Gerade"
                 />
             </div>
         </div>

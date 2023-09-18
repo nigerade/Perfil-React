@@ -7,11 +7,11 @@ export default function Banner() {
         <div className={styles.banner}>
             <div className={styles.apresentacao}>
                 <h1 className={styles.titulo}>
-                    Olá, Mundo!
+                    Fala Dev!!
                 </h1>
 
                 <p className={styles.paragrafo}>
-                    Boas vindas ao meu espaço pessoal! Eu sou Antônio Evaldo, instrutor de Front-end da Alura. Aqui compartilho vários conhecimentos, espero que aprenda algo novo :)
+                    Olá, eu me chamo Nicholas Gerade! Sou Programador Front-end e seja bem-vindo ao meu Blog desenvolvido com React.
                 </p>
             </div>
 

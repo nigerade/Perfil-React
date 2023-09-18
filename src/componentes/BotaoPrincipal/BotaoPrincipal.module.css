@@ -19,5 +19,6 @@
  
 .botaoPrincipal:hover {
     border: 3px solid var(--azul-escuro);
+    transition: all .45s ease;
 }
 

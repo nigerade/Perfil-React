@@ -6,6 +6,11 @@
     column-gap: 3rem;
 }
 
+.navegacao:hover {
+    transform: scale(1.1);
+    transition: all .45s ease;
+}
+
  
 @media (max-width: 744px) {
     .navegacao {

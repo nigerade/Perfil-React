@@ -9,6 +9,7 @@
  
 .post:hover {
     transform: translate(0, -1rem);
+    transition: all .45s ease;
 }
  
 .capa {
